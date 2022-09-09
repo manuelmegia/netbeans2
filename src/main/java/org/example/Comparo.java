@@ -17,8 +17,6 @@ public class Comparo implements Comparable {
 
     @Override
     public String toString() {
-        return "Comparo{" +
-                "color='" + color + '\'' +
-                '}';
+        return "Comparo{" + "color='" + color + '\'' + '}';
     }
 }
